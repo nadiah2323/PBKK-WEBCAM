@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.exe.config
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.exe
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.pdb
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.dll
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.dll
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.xml
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.xml
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.webcam.resources
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.exe
+C:\Users\LENOVO\Downloads\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.pdb
